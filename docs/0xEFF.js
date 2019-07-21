@@ -54,7 +54,7 @@ request0000.onload = function () {
   if (request0000.status >= 200 && request0000.status < 400) {
 	  dawg0000.forEach(id => {
 		  const Taur0000 = document.createElement('li');
-Taur0000.innerText = '⥱' + ((((bb[id.symbol])/id.total_supply)*100).toFixed(18)) + '⛓%, k¶ ' + ((((bb[id.symbol])*(1/1024)*68.53)*(id.price_usd)).toFixed(8)) + '🌐' + id.name;
+Taur0000.innerText = '⥱' + ((((bb[id.symbol])/id.total_supply)*100).toFixed(18)) + '⛓%⥱' + ((((bb[id.symbol])*(1/1024)*68.53)*(id.price_usd)).toFixed(8)) + 'k¶🌐' + id.name;
 Butch0000.appendChild(Taur0000);
     });  } }
 request0001.onload = function () {
@@ -62,7 +62,7 @@ request0001.onload = function () {
   if (request0001.status >= 200 && request0001.status < 400) {
 	  dawg0001.forEach(id => {
 		  const Taur0001 = document.createElement('li');
-Taur0001.innerText = '⥱' + ((((bb[id.symbol])/id.total_supply)*100).toFixed(18)) + '⛓%, k¶ ' + ((((bb[id.symbol])*(1/1024)*68.53)*(id.price_usd)).toFixed(8)) + '🌐' + id.name;
+Taur0001.innerText = '⥱' + ((((bb[id.symbol])/id.total_supply)*100).toFixed(18)) + '⛓%⥱' + ((((bb[id.symbol])*(1/1024)*68.53)*(id.price_usd)).toFixed(8)) + 'k¶🌐' + id.name;
 Butch0001.appendChild(Taur0001);
     });  } }
 request0002.onload = function () {
@@ -70,7 +70,7 @@ request0002.onload = function () {
   if (request0002.status >= 200 && request0002.status < 400) {
     dawg0002.forEach(id => {
 		const Taur0002 = document.createElement('li');
-Taur0002.innerText  = '⥱' + ((((bb[id.symbol])/id.total_supply)*100).toFixed(18)) + '⛓%, k¶ ' + ((((bb[id.symbol])*(1/1024)*68.53)*(id.price_usd)).toFixed(8)) + '🌐' + id.name;
+Taur0002.innerText  = '⥱' + ((((bb[id.symbol])/id.total_supply)*100).toFixed(18)) + '⛓%⥱' + ((((bb[id.symbol])*(1/1024)*68.53)*(id.price_usd)).toFixed(8)) + 'k¶🌐' + id.name;
 Butch0002.appendChild(Taur0002);
     });  } }
 request0003.onload = function () {
@@ -78,7 +78,7 @@ request0003.onload = function () {
   if (request0003.status >= 200 && request0003.status < 400) {
 	  dawg0003.forEach(id => {
 		  const Taur0003 = document.createElement('li');
-Taur0003.innerText = '⥱' + ((((bb[id.symbol])/id.total_supply)*100).toFixed(18)) + '⛓%, k¶ ' + ((((bb[id.symbol])*(1/1024)*68.53)*(id.price_usd)).toFixed(8)) + '🌐' + id.name;
+Taur0003.innerText = '⥱' + ((((bb[id.symbol])/id.total_supply)*100).toFixed(18)) + '⛓%⥱' + ((((bb[id.symbol])*(1/1024)*68.53)*(id.price_usd)).toFixed(8)) + 'k¶🌐' + id.name;
 Butch0003.appendChild(Taur0003);
     });  } }
 request0004.onload = function () {
@@ -86,7 +86,7 @@ request0004.onload = function () {
   if (request0004.status >= 200 && request0004.status < 400) {
 	  dawg0004.forEach(id => {
 		  const Taur0004 = document.createElement('li');
-Taur0004.innerText = '⥱' + ((((bb[id.symbol])/id.total_supply)*100).toFixed(18)) + '⛓%, k¶ ' + ((((bb[id.symbol])*(1/1024)*68.53)*(id.price_usd)).toFixed(8)) + '🌐' + id.name;
+Taur0004.innerText = '⥱' + ((((bb[id.symbol])/id.total_supply)*100).toFixed(18)) + '⛓%⥱' + ((((bb[id.symbol])*(1/1024)*68.53)*(id.price_usd)).toFixed(8)) + 'k¶🌐' + id.name;
 Butch0004.appendChild(Taur0004);
     });  } }
 request0005.onload = function () {
@@ -94,7 +94,7 @@ request0005.onload = function () {
   if (request0005.status >= 200 && request0005.status < 400) {
     dawg0005.forEach(id => {
 		const Taur0005 = document.createElement('li');
-Taur0005.innerText  = '⥱' + ((((bb[id.symbol])/id.total_supply)*100).toFixed(18)) + '⛓%, k¶ ' + ((((bb[id.symbol])*(1/1024)*68.53)*(id.price_usd)).toFixed(8)) + '🌐' + id.name;
+Taur0005.innerText  = '⥱' + ((((bb[id.symbol])/id.total_supply)*100).toFixed(18)) + '⛓%⥱' + ((((bb[id.symbol])*(1/1024)*68.53)*(id.price_usd)).toFixed(8)) + 'k¶🌐' + id.name;
 Butch0005.appendChild(Taur0005);
     });  } }
 request0006.onload = function () {
@@ -102,7 +102,7 @@ request0006.onload = function () {
   if (request0006.status >= 200 && request0006.status < 400) {
 	  dawg0006.forEach(id => {
 		  const Taur0006 = document.createElement('li');
-Taur0006.innerText = '⥱' + ((((bb[id.symbol])/id.total_supply)*100).toFixed(18)) + '⛓%, k¶ ' + ((((bb[id.symbol])*(1/1024)*68.53)*(id.price_usd)).toFixed(8)) + '🌐' + id.name;
+Taur0006.innerText = '⥱' + ((((bb[id.symbol])/id.total_supply)*100).toFixed(18)) + '⛓%⥱' + ((((bb[id.symbol])*(1/1024)*68.53)*(id.price_usd)).toFixed(8)) + 'k¶🌐' + id.name;
 Butch0006.appendChild(Taur0006);
     });  } }
 request0007.onload = function () {
@@ -110,7 +110,7 @@ request0007.onload = function () {
   if (request0007.status >= 200 && request0007.status < 400) {
 	  dawg0007.forEach(id => {
 		  const Taur0007 = document.createElement('li');
-Taur0007.innerText = '⥱' + ((((bb[id.symbol])/id.total_supply)*100).toFixed(18)) + '⛓%, k¶ ' + ((((bb[id.symbol])*(1/1024)*68.53)*(id.price_usd)).toFixed(8)) + '🌐' + id.name;
+Taur0007.innerText = '⥱' + ((((bb[id.symbol])/id.total_supply)*100).toFixed(18)) + '⛓%⥱' + ((((bb[id.symbol])*(1/1024)*68.53)*(id.price_usd)).toFixed(8)) + 'k¶🌐' + id.name;
 Butch0007.appendChild(Taur0007);
     });  } }
 request0008.onload = function () {
@@ -118,7 +118,7 @@ request0008.onload = function () {
   if (request0008.status >= 200 && request0008.status < 400) {
     dawg0008.forEach(id => {
 		const Taur0008 = document.createElement('li');
-Taur0008.innerText  = '⥱' + ((((bb[id.symbol])/id.total_supply)*100).toFixed(18)) + '⛓%, k¶ ' + ((((bb[id.symbol])*(1/1024)*68.53)*(id.price_usd)).toFixed(8)) + '🌐' + id.name;
+Taur0008.innerText  = '⥱' + ((((bb[id.symbol])/id.total_supply)*100).toFixed(18)) + '⛓%⥱' + ((((bb[id.symbol])*(1/1024)*68.53)*(id.price_usd)).toFixed(8)) + 'k¶🌐' + id.name;
 Butch0008.appendChild(Taur0008);
     });  } }
 request0009.onload = function () {
@@ -126,7 +126,7 @@ request0009.onload = function () {
   if (request0009.status >= 200 && request0009.status < 400) {
 	  dawg0009.forEach(id => {
 		  const Taur0009 = document.createElement('li');
-Taur0009.innerText = '⥱' + ((((bb[id.symbol])/id.total_supply)*100).toFixed(18)) + '⛓%, k¶ ' + ((((bb[id.symbol])*(1/1024)*68.53)*(id.price_usd)).toFixed(8)) + '🌐' + id.name;
+Taur0009.innerText = '⥱' + ((((bb[id.symbol])/id.total_supply)*100).toFixed(18)) + '⛓%⥱' + ((((bb[id.symbol])*(1/1024)*68.53)*(id.price_usd)).toFixed(8)) + 'k¶🌐' + id.name;
 Butch0009.appendChild(Taur0009);
     });  } }
 request0010.onload = function () {
@@ -134,7 +134,7 @@ request0010.onload = function () {
   if (request0010.status >= 200 && request0010.status < 400) {
 	  dawg0010.forEach(id => {
 		  const Taur0010 = document.createElement('li');
-Taur0010.innerText = '⥱' + ((((bb[id.symbol])/id.total_supply)*100).toFixed(18)) + '⛓%, k¶ ' + ((((bb[id.symbol])*(1/1024)*68.53)*(id.price_usd)).toFixed(8)) + '🌐' + id.name;
+Taur0010.innerText = '⥱' + ((((bb[id.symbol])/id.total_supply)*100).toFixed(18)) + '⛓%⥱' + ((((bb[id.symbol])*(1/1024)*68.53)*(id.price_usd)).toFixed(8)) + 'k¶🌐' + id.name;
 Butch0010.appendChild(Taur0010);
     });  } }
 request0011.onload = function () {
@@ -142,7 +142,7 @@ request0011.onload = function () {
   if (request0011.status >= 200 && request0011.status < 400) {
 	  dawg0011.forEach(id => {
 		  const Taur0011 = document.createElement('li');
-Taur0011.innerText = '⥱' + ((((bb[id.symbol])/id.total_supply)*100).toFixed(18)) + '⛓%, k¶ ' + ((((bb[id.symbol])*(1/1024)*68.53)*(id.price_usd)).toFixed(8)) + '🌐' + id.name;
+Taur0011.innerText = '⥱' + ((((bb[id.symbol])/id.total_supply)*100).toFixed(18)) + '⛓%⥱' + ((((bb[id.symbol])*(1/1024)*68.53)*(id.price_usd)).toFixed(8)) + 'k¶🌐' + id.name;
 Butch0011.appendChild(Taur0011);
     });  } }
 request0012.onload = function () {
@@ -150,7 +150,7 @@ request0012.onload = function () {
   if (request0012.status >= 200 && request0012.status < 400) {
 	  dawg0012.forEach(id => {
 		  const Taur0012 = document.createElement('li');
-Taur0012.innerText = '⥱' + ((((bb[id.symbol])/id.total_supply)*100).toFixed(18)) + '⛓%, k¶ ' + ((((bb[id.symbol])*(1/1024)*68.53)*(id.price_usd)).toFixed(8)) + '🌐' + id.name;
+Taur0012.innerText = '⥱' + ((((bb[id.symbol])/id.total_supply)*100).toFixed(18)) + '⛓%⥱' + ((((bb[id.symbol])*(1/1024)*68.53)*(id.price_usd)).toFixed(8)) + 'k¶🌐' + id.name;
 Butch0012.appendChild(Taur0012);
     });  } }
 request0013.onload = function () {
@@ -158,7 +158,7 @@ request0013.onload = function () {
   if (request0013.status >= 200 && request0013.status < 400) {
 	  dawg0013.forEach(id => {
 		  const Taur0013 = document.createElement('li');
-Taur0013.innerText = '⥱' + ((((bb[id.symbol])/id.total_supply)*100).toFixed(18)) + '⛓%, k¶ ' + ((((bb[id.symbol])*(1/1024)*68.53)*(id.price_usd)).toFixed(8)) + '🌐' + id.name;
+Taur0013.innerText = '⥱' + ((((bb[id.symbol])/id.total_supply)*100).toFixed(18)) + '⛓%⥱' + ((((bb[id.symbol])*(1/1024)*68.53)*(id.price_usd)).toFixed(8)) + 'k¶🌐' + id.name;
 Butch0013.appendChild(Taur0013);
     });  } }
 request0014.onload = function () {
@@ -166,7 +166,7 @@ request0014.onload = function () {
   if (request0014.status >= 200 && request0014.status < 400) {
 	  dawg0014.forEach(id => {
 		  const Taur0014 = document.createElement('li');
-Taur0014.innerText = '⥱' + ((((bb[id.symbol])/id.total_supply)*100).toFixed(18)) + '⛓%, k¶ ' + ((((bb[id.symbol])*(1/1024)*68.53)*(id.price_usd)).toFixed(8)) + '🌐' + id.name;
+Taur0014.innerText = '⥱' + ((((bb[id.symbol])/id.total_supply)*100).toFixed(18)) + '⛓%⥱' + ((((bb[id.symbol])*(1/1024)*68.53)*(id.price_usd)).toFixed(8)) + 'k¶🌐' + id.name;
 Butch0014.appendChild(Taur0014);
     });  } }
 request0015.onload = function () {
@@ -174,7 +174,7 @@ request0015.onload = function () {
   if (request0015.status >= 200 && request0015.status < 400) {
 	  dawg0015.forEach(id => {
 		  const Taur0015 = document.createElement('li');
-Taur0015.innerText = '⥱' + ((((bb[id.symbol])/id.total_supply)*100).toFixed(18)) + '⛓%, k¶ ' + ((((bb[id.symbol])*(1/1024)*68.53)*(id.price_usd)).toFixed(8)) + '🌐' + id.name;
+Taur0015.innerText = '⥱' + ((((bb[id.symbol])/id.total_supply)*100).toFixed(18)) + '⛓%⥱' + ((((bb[id.symbol])*(1/1024)*68.53)*(id.price_usd)).toFixed(8)) + 'k¶🌐' + id.name;
 Butch0015.appendChild(Taur0015);
     });  } }
 request0016.onload = function () {
@@ -182,7 +182,7 @@ request0016.onload = function () {
   if (request0016.status >= 200 && request0016.status < 400) {
 	  dawg0016.forEach(id => {
 		  const Taur0016 = document.createElement('li');
-Taur0016.innerText = '⥱' + ((((bb[id.symbol])/id.total_supply)*100).toFixed(18)) + '⛓%, k¶ ' + ((((bb[id.symbol])*(1/1024)*68.53)*(id.price_usd)).toFixed(8)) + '🌐' + id.name;
+Taur0016.innerText = '⥱' + ((((bb[id.symbol])/id.total_supply)*100).toFixed(18)) + '⛓%⥱' + ((((bb[id.symbol])*(1/1024)*68.53)*(id.price_usd)).toFixed(8)) + 'k¶🌐' + id.name;
 Butch0016.appendChild(Taur0016);
     });  } }
 request0017.onload = function () {
@@ -190,7 +190,7 @@ request0017.onload = function () {
   if (request0017.status >= 200 && request0017.status < 400) {
 	  dawg0017.forEach(id => {
 		  const Taur0017 = document.createElement('li');
-Taur0017.innerText = '⥱' + ((((bb[id.symbol])/id.total_supply)*100).toFixed(18)) + '⛓%, k¶ ' + ((((bb[id.symbol])*(1/1024)*68.53)*(id.price_usd)).toFixed(8)) + '🌐' + id.name;
+Taur0017.innerText = '⥱' + ((((bb[id.symbol])/id.total_supply)*100).toFixed(18)) + '⛓%⥱' + ((((bb[id.symbol])*(1/1024)*68.53)*(id.price_usd)).toFixed(8)) + 'k¶🌐' + id.name;
 Butch0017.appendChild(Taur0017);
     });  } }
 request0018.onload = function () {
@@ -198,7 +198,7 @@ request0018.onload = function () {
   if (request0018.status >= 200 && request0018.status < 400) {
 	  dawg0018.forEach(id => {
 		  const Taur0018 = document.createElement('li');
-Taur0018.innerText = '⥱' + ((((bb[id.symbol])/id.total_supply)*100).toFixed(18)) + '⛓%, k¶ ' + ((((bb[id.symbol])*(1/1024)*68.53)*(id.price_usd)).toFixed(8)) + '🌐' + id.name;
+Taur0018.innerText = '⥱' + ((((bb[id.symbol])/id.total_supply)*100).toFixed(18)) + '⛓%⥱' + ((((bb[id.symbol])*(1/1024)*68.53)*(id.price_usd)).toFixed(8)) + 'k¶🌐' + id.name;
 Butch0018.appendChild(Taur0018);
     });  } }
 request0019.onload = function () {
@@ -206,7 +206,7 @@ request0019.onload = function () {
   if (request0019.status >= 200 && request0019.status < 400) {
 	  dawg0019.forEach(id => {
 		  const Taur0019 = document.createElement('li');
-Taur0019.innerText = '⥱' + ((((bb[id.symbol])/id.total_supply)*100).toFixed(18)) + '⛓%, k¶ ' + ((((bb[id.symbol])*(1/1024)*68.53)*(id.price_usd)).toFixed(8)) + '🌐' + id.name;
+Taur0019.innerText = '⥱' + ((((bb[id.symbol])/id.total_supply)*100).toFixed(18)) + '⛓%⥱' + ((((bb[id.symbol])*(1/1024)*68.53)*(id.price_usd)).toFixed(8)) + 'k¶🌐' + id.name;
 Butch0019.appendChild(Taur0019);
     });  } }
 request0020.onload = function () {
@@ -214,7 +214,7 @@ request0020.onload = function () {
   if (request0020.status >= 200 && request0020.status < 400) {
 	  dawg0020.forEach(id => {
 		  const Taur0020 = document.createElement('li');
-Taur0020.innerText = '⥱' + ((((bb[id.symbol])/id.total_supply)*100).toFixed(18)) + '⛓%, k¶ ' + ((((bb[id.symbol])*(1/1024)*68.53)*(id.price_usd)).toFixed(8)) + '🌐' + id.name;
+Taur0020.innerText = '⥱' + ((((bb[id.symbol])/id.total_supply)*100).toFixed(18)) + '⛓%⥱' + ((((bb[id.symbol])*(1/1024)*68.53)*(id.price_usd)).toFixed(8)) + 'k¶🌐' + id.name;
 Butch0020.appendChild(Taur0020);
     });  } }
 request0021.onload = function () {
@@ -222,7 +222,7 @@ request0021.onload = function () {
   if (request0021.status >= 200 && request0021.status < 400) {
 	  dawg0021.forEach(id => {
 		  const Taur0021 = document.createElement('li');
-Taur0021.innerText = '⥱' + ((((bb[id.symbol])/id.total_supply)*100).toFixed(18)) + '⛓%, k¶ ' + ((((bb[id.symbol])*(1/1024)*68.53)*(id.price_usd)).toFixed(8)) + '🌐' + id.name;
+Taur0021.innerText = '⥱' + ((((bb[id.symbol])/id.total_supply)*100).toFixed(18)) + '⛓%⥱' + ((((bb[id.symbol])*(1/1024)*68.53)*(id.price_usd)).toFixed(8)) + 'k¶🌐' + id.name;
 Butch0021.appendChild(Taur0021);
     });  } }
 const TerrorMessage = document.createElement('marquee');    TerrorMessage.setAttribute('behavior', 'alternate');    TerrorMessage.setAttribute('bgcolor', '#0FF133');    TerrorMessage.textContent = '✌ / Please consider voting our Proxy : 3r3333333333 on eOS™ network  : ]  ';
@@ -251,4 +251,3 @@ Zeus.appendChild(Butch0019);request0019.send();
 Zeus.appendChild(Butch0020);request0020.send();
 Zeus.appendChild(Butch0021);request0021.send();
 Zeus.appendChild(Butch0022);request0022.send();
-///(C) 1996-2020 itsN1X 'A11'~@\\
